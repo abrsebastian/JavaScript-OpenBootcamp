@@ -1,0 +1,15 @@
+{
+  "name": "clase-01",
+  "version": "1.0.0",
+  "description": "Clase 1 JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sebastian Abramowski",
+  "license": "ISC"
+}
