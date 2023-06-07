@@ -1,10 +1,12 @@
-const nombre = "Sebastian";
-const edad = 25;
-const eresDesarrollador 
-const si = true;
-const no = false;
-if(eresDesarrollador = si){
-    console.log(Eres Desarrollador)
-}else if(eresDesarrollador = no){
-    console.log("No eres desarrollador")
-}
+const list = [
+    "Sebastian",
+    25,
+    true,
+    new Date (1997, 10, 17),
+    {
+        titulo: "Psicologia oscura",
+        autor: "Steven Turner",
+        fecha: new Date(2019, 1, 2),
+        url: "https://listado.mercadolibre.com.ar/psicologia-oscura-libro"
+    }
+] 
